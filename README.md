@@ -8,4 +8,4 @@ This project can be made following the follow steps:
 
 #### `npx create-react-app my-app --template typescript`
 
-Create basic react folder structure and install typescript
+Create basic react folder structure and install typescript.
