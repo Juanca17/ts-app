@@ -1,6 +1,6 @@
 import logo from "./logo.svg";
 import "./App.css";
-import { Button } from "antd";
+import Button from "./components/Button";
 
 function App() {
   return (
@@ -16,7 +16,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          <Button type="primary">Learn React</Button>
+          <Button>Learn React</Button>
         </a>
       </header>
     </div>
